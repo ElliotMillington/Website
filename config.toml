@@ -1,0 +1,4 @@
+baseURL = "https://EllliotMillington.github.io"
+languageCode = "en-us"
+title = "Elliot Millington - Personal Site"
+theme = "ananke"
