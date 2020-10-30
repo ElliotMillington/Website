@@ -14,24 +14,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests centre around autism, specificially how the senses and anxiety interact with each other. I am also interested in psychometrics and using Virtual Reality in research.
+bio: I am a postgraduate research student at the University of Glasgow where I am completing a PhD that's funded by the ESRC/SGSSS and supervised by Dr David Simmons and Dr Neil McDonnell. My research interests centre around autism, specificially how the senses and anxiety interact with each other. I am also interested in psychometrics and using Virtual Reality in research.
 
 interests:
-- Anxiety and Sensory Experiences
+- Anxiety and sensory experiences
 - Psychometrics
-- Virtual Reality
+- Virtual reality
 
 education:
   courses:
   - course: PhD in Psychology
     institution: University of Glasgow
-    year: 2020 - 
+    year: 2020 - Present
   - course: MSc in Research Methods of Psychological Science
     institution: University of Glasgow
-    year: 2020
+    year: 2019 - 2020
   - course: MA(SocSci) in Psychology
     institution: University of Glasgow
-    year: 2019
+    year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a postgraduate research student at the University of Glasgow where I am completing a PhD funded by the ESRC/SGSSS and supervised by Dr David Simmons and Dr Neil McDonnell. As part of this project, I am hoping to use virtual reality to raise and lower anxiety to test its effect on sensory processing.
+I am a postgraduate research student at the University of Glasgow where I am completing a PhD that's funded by the ESRC/SGSSS and supervised by Dr David Simmons and Dr Neil McDonnell. As part of my work, I am hoping to use virtual reality to raise and lower anxiety to test its effect on sensory processing.
 
-I am also interested in researching how longer-term anxiety is behaviourally expressed in autism, especially the use of video games as a coping mechanism. My other research interests are related to psychometrics, specifically modelling the underlying structures of autism and effectively understanding the experiences of children.
+I am also interested in researching how longer-term anxiety is behaviourally expressed in autism, especially the use of video games as a coping mechanism. My other research interests are related to psychometrics, specifically including modelling the underlying structures of autism and effectively understanding the experiences of children.
