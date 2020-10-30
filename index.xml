@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elliot Millington</title>
+    <link>https://ElliotMillington.github.io/</link>
+      <atom:link href="https://ElliotMillington.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elliot Millington</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2020 15:52:23 +0000</lastBuildDate>
+    <image>
+      <url>https://ElliotMillington.github.io/images/icon_hu86028ebfd8bd1ff90892765b740400b4_78559_512x512_fill_lanczos_center_2.png</url>
+      <title>Elliot Millington</title>
+      <link>https://ElliotMillington.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Artificial Neural Networks</title>
+      <link>https://ElliotMillington.github.io/project/neural-networks/</link>
+      <pubDate>Thu, 22 Oct 2020 12:33:51 +0100</pubDate>
+      <guid>https://ElliotMillington.github.io/project/neural-networks/</guid>
+      <description>&lt;p&gt;I have used the &lt;a href=&#34;https://www.tensorflow.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tensor Flow&lt;/a&gt; library developed by Google to train several artificial neural networks in categorisation tasks. The most developed of these is a network trained to distinguish whether noisy gabor patches were vertical or horizontal, pictured below. This is a replication of a paper by Bertone, Mottron, Jelenic, &amp;amp; Faubert (2005) which found that autistic people were better than typically developing people at some versions of their task.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Figure_1a.png&#34; alt=&#34;noisy gabor patches&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I then injected internal noise into the model when testing on a test set of data. By comparing the effects of different levels of internal and external noise, I demonstrated a proof-of-concept that different levels of noise will have effects on performance that are not necessarily intuitive.&lt;/p&gt;
+&lt;p&gt;My most recent project using neural networks involves using the Tensor Flow framework to make inferences about drawing styles using the &lt;a href=&#34;https://github.com/googlecreativelab/quickdraw-dataset&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quick, Draw!&lt;/a&gt; dataset.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;References&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Bertone, A., Mottron, L., Jelenic, P., &amp;amp; Faubert, J. (2005). Enhanced and diminished visuo-spatial information processing in autism depends on stimulus complexity. &lt;em&gt;Brain, 128&lt;/em&gt;(10), 2430–2441. &lt;a href=&#34;https://doi.org/10.1093/brain/awh561&#34;&gt;https://doi.org/10.1093/brain/awh561&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Learning Environments</title>
+      <link>https://ElliotMillington.github.io/project/ux-design/</link>
+      <pubDate>Thu, 29 Oct 2020 15:52:23 +0000</pubDate>
+      <guid>https://ElliotMillington.github.io/project/ux-design/</guid>
+      <description>&lt;p&gt;In collaboration with the School of Education and Information Services at the University of Glasgow, I worked to improve the user experience of students undertaking fully online courses. I did this through a combination of A/B testing, eye-tracking data, and interviews. I then produced a report with recommendations for improvements which were implemented for the 2020 academic year and online teaching pivot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cultural Comparison</title>
+      <link>https://ElliotMillington.github.io/project/culture-comparison/</link>
+      <pubDate>Wed, 28 Oct 2020 11:16:13 +0000</pubDate>
+      <guid>https://ElliotMillington.github.io/project/culture-comparison/</guid>
+      <description>&lt;p&gt;The starting point for this project was trying to understand how autism presents itself throughout the population. Is it a spectrum with everyone on it, or are autistic people their unique group? As a result of the COVID-19 outbreak, all participant recruitment was suspended. As such, I reached out to all researchers who had ever used the Glasgow Sensory Questionnaire. These researchers gave me access to data from tens of thousands of participants from countries all of the world.&lt;/p&gt;
+&lt;p&gt;Handling this amount of data from diverse sources came with challenges, however, I performed our intended analyses. A paper is currently being written and should be published as a pre-print shortly. A preview of our expected results can be seen below.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;All_Net_West.svg&#34; alt=&#34;network of autistic traits and sensory sensitivities&#34;&gt; &lt;img src=&#34;AQ_Distribution_West.svg&#34; alt=&#34;histogram and density plot of autistic traits&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PISA Shiny App</title>
+      <link>https://ElliotMillington.github.io/project/pisa/</link>
+      <pubDate>Wed, 28 Oct 2020 11:47:49 +0000</pubDate>
+      <guid>https://ElliotMillington.github.io/project/pisa/</guid>
+      <description>&lt;p&gt;The Programme for International Student Assessment (PISA) is a long running study by the OECD looking at the educational performance of 15-year-olds across the world. With funding from the Erasmus+ Programme, I developed an app analysing the data from the 600,000 students who took part in the 2018 tests. This app fulfils a dual purpose of being a learning aid for complex statistics as well as being a well-founded analysis of how Governments can affect educational outcomes. While the app continues to develop, an early version is currently being hosted &lt;a href=&#34;https://r.qhelp.eu/Glasgow/FormalModels/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Psephography</title>
+      <link>https://ElliotMillington.github.io/project/psephography/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ElliotMillington.github.io/project/psephography/</guid>
+      <description>&lt;p&gt;Beginning from the leadership election of the Labour Party in 2016, this project has developed to take a broader vision of the political geography of the UK. This involves the publishing of our own work on our &lt;a href=&#34;https://psephography.wordpress.com/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/CLPNominations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt; accounts, as well as working with the data journalism teams of mainstream media outlets including the BBC, Financial Times, and New Statesman.&lt;/p&gt;
+&lt;p&gt;The most popular productions are still the crowd-sourced reporting of internal Labour Party elections, and the subsequent maps showing the results. Some examples of the content produced are below.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ElliotMillington.github.io/project/psephography/gallery/Deputy-Leadership-Standard.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ElliotMillington.github.io/project/psephography/gallery/Deputy-Leadership-Standard_hub8cccdf18da7527fdebf21629edd49ac_1344803_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ElliotMillington.github.io/project/psephography/gallery/Ei_fviLXcAAovhL.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ElliotMillington.github.io/project/psephography/gallery/Ei_fviLXcAAovhL_hu197b8b464979178b1a1765fa807effc9_459987_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;111&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ElliotMillington.github.io/project/psephography/gallery/Leadership-Map-Hex.jpg&#34; &gt;
+  &lt;img data-src=&#34;https://ElliotMillington.github.io/project/psephography/gallery/Leadership-Map-Hex_hu13672e9ddb73d39f0bc90faf6c671d7f_366555_0x190_resize_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;146&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://ElliotMillington.github.io/test_page/</link>
+      <pubDate>Fri, 23 Oct 2020 14:58:58 +0100</pubDate>
+      <guid>https://ElliotMillington.github.io/test_page/</guid>
+      <description>&lt;p&gt;An example sentence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://ElliotMillington.github.io/portfolio/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://ElliotMillington.github.io/portfolio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
