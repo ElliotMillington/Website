@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>teaching | Elliot Millington</title>
-    <link>https://ElliotMillington.github.io/tag/teaching/</link>
-      <atom:link href="https://ElliotMillington.github.io/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elliotmillington.github.io/tag/teaching/</link>
+      <atom:link href="https://elliotmillington.github.io/tag/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>teaching</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Oct 2020 11:47:49 +0000</lastBuildDate>
     <image>
-      <url>https://ElliotMillington.github.io/images/icon_hu1c6436ea0a3d4bbf86936c0b03a04d16_61091_512x512_fill_lanczos_center_2.png</url>
+      <url>https://elliotmillington.github.io/images/icon_hu1c6436ea0a3d4bbf86936c0b03a04d16_61091_512x512_fill_lanczos_center_2.png</url>
       <title>teaching</title>
-      <link>https://ElliotMillington.github.io/tag/teaching/</link>
+      <link>https://elliotmillington.github.io/tag/teaching/</link>
     </image>
     
     <item>
       <title>PISA Shiny App</title>
-      <link>https://ElliotMillington.github.io/project/pisa/</link>
+      <link>https://elliotmillington.github.io/project/pisa/</link>
       <pubDate>Wed, 28 Oct 2020 11:47:49 +0000</pubDate>
-      <guid>https://ElliotMillington.github.io/project/pisa/</guid>
+      <guid>https://elliotmillington.github.io/project/pisa/</guid>
       <description>&lt;p&gt;The Programme for International Student Assessment (PISA) is a long running study by the OECD looking at the educational performance of 15-year-olds across the world. With funding from the Erasmus+ Programme, I developed an app analysing the data from the 600,000 students who took part in the 2018 tests. This app fulfils a dual purpose of being a learning aid for complex statistics as well as being a well-founded analysis of how Governments can affect educational outcomes. While the app continues to develop, an early version is currently being hosted &lt;a href=&#34;https://r.qhelp.eu/Glasgow/FormalModels/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

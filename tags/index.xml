@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Elliot Millington</title>
-    <link>https://ElliotMillington.github.io/tags/</link>
-      <atom:link href="https://ElliotMillington.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://elliotmillington.github.io/tags/</link>
+      <atom:link href="https://elliotmillington.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Feb 2021 13:29:18 +0000</lastBuildDate>
     <image>
-      <url>https://ElliotMillington.github.io/images/icon_hu1c6436ea0a3d4bbf86936c0b03a04d16_61091_512x512_fill_lanczos_center_2.png</url>
+      <url>https://elliotmillington.github.io/images/icon_hu1c6436ea0a3d4bbf86936c0b03a04d16_61091_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>https://ElliotMillington.github.io/tags/</link>
+      <link>https://elliotmillington.github.io/tags/</link>
     </image>
     
   </channel>
